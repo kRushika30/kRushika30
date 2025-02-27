@@ -16,14 +16,14 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Rushika</h1>
-<h3 align="center">A passionate Software Engineer</h3>
-<img align=“right” alt=“coding” width=“400” src=“ https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif”>
+<h3 align="center">A Passionate Software Engineer</h3>
+<img align="right" alt="coding" width="400" src= "https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif”>"
 
 - 👀 I’m interested in **Full-Stack Development and Cloud Computing.**
 
-- 🚀 I’m passionate about **developing scalable and efficient microservices using Java and Spring Boot.**
+- 🚀 I’m passionate about **Developing scalable and efficient microservices using Java and Spring Boot.**
 
-- 💡 I’m exploring **cloud technologies like AWS and Kubernetes to enhance software deployment.**
+- 💡 I’m exploring **Cloud Technologies like AWS and Kubernetes to enhance software deployment.**
 
 
 <h3 align="left">Connect with me:</h3>
